@@ -1,0 +1,3 @@
+import os
+a=[]
+for line in open("C:\\Users\\hades\\Desktop\\temp_socks_list_parsed.txt")
