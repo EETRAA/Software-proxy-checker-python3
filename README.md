@@ -5,3 +5,4 @@ A socks proxy checker
 - add sqlite3 support
 - fix expectations error
 - add GUI support
+- hierarchical design 
